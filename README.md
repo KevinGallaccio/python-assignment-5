@@ -152,8 +152,8 @@ print("Getting index 999999 item: ", my_huge_list.get(999999))
 - Python 3
 - No external libraries (pure Python implementation)
 
-📌 **Author:** [Your Name]  
-📌 **GitHub Repo:** [Your Repo Link]
+📌 **Author:** Kevin Gallaccio[https://github.com/KevinGallaccio]
+📌 **Based On:** Coders Campus[https://coderscampus.com/]
 
 🚀 **Ready for the next challenge!**
 
